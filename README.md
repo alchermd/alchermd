@@ -21,4 +21,4 @@ You can read up my thoughts on [my blog](https://alcher.dev/) or reach out on [T
 
 ---
 
-Currently a Senior Python Developer @ [CodingChiefs](https://codingchiefs.com/). Previously the CTO of [DirectWorksMedia](https://directworksmedia.com). Contents of this account does not represent my employer in any way whatsoever.
+Currently a Senior Python Developer @ [CodingChiefs](https://codingchiefs.com/) x [Snom](https://www.snom.com/en/). Previously the CTO of [DirectWorksMedia](https://directworksmedia.com). Contents of this account does not represent my employer in any way whatsoever.
